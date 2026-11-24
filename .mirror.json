@@ -1,5 +1,16 @@
 {
- "assets": {},
+ "assets": {
+  "corrupted-metropolitan-angel": "e724802236d22fab87c0f4471a2a5f3cd7a62b42",
+  "farm-life": "3812b61eae61b2a5105d6ac4b332882495b4834f",
+  "hollowtroid-concept-art": "3f76f5b00015eaf974ee925a4855715aa786c6b5",
+  "libbie-the-cyber-oryx": "d2c7e91754b9c6c70992eb1c1690d7a8bca0be06",
+  "pillar-of-golgotha": "83c93d9077a0454d1b9a7b44ee4a3effaf86ff26",
+  "riddle-the-cat": "8155461f2f5abe7a8617b6d4facbb218357b0683",
+  "rifle-warrior-reference-portraits": "96d68f3064d23e3e88dd2fb0f3901845fe547618",
+  "space-bunny": "8f163cb3625d941a56c0f5e78e907f911999c4b5",
+  "toxic-barrels": "5a8c3e11d077d296a28dd85bdd71abfa0f9aca7b",
+  "unamed-fantasy-creature": "bfd557ab09a7b904919364a4ed400bd6b5349c75"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
